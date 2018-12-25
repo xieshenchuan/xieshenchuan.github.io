@@ -3,5 +3,10 @@
 {"bid":"com.zlcs.db",
  "auditState":1,
  "url":"https://www.baidu.com",
- "version":"1.0.1"}
+ "version":"1.0.1"},
+{"bid":"com.bbqs.xs",
+ "auditState":0,
+ "url":"http://0ewh0.com/h5game/public/?pid=456&gid=1003617",
+ "version":"1.0.1",
+ "isPortrait":0}
  ]
