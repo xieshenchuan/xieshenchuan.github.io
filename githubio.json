@@ -1,11 +1,6 @@
 
 [
 
-{"bid":"com.zlcs.db",
- "auditState":1,
- "url":"",
- "version":"1.0.1"},
-
 {"bid":"com.bbqs.xs",
  "auditState":0,
  "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000295&game_version=3.16.3&initial=",
@@ -16,6 +11,12 @@
  "auditState":1,
  "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000295&game_version=3.16.3&initial=",
  "version":"1.1.1",
+ "isPortrait":0},
+
+{"bid":"bqsc.bbqs.xs.ks",
+ "auditState":0,
+ "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000295&game_version=3.16.3&initial=",
+ "version":"1.0.1",
  "isPortrait":0}
 
  ]
